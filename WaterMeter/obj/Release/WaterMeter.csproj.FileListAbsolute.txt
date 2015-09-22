@@ -1,0 +1,9 @@
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\bin\Release\WaterMeter.exe.config
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\bin\Release\WaterMeter.exe
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\bin\Release\WaterMeter.pdb
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.frmMain.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.Properties.Resources.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.csproj.GenerateResource.Cache
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.exe
+C:\Users\Family\Documents\Visual Studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.pdb
+C:\Users\Family\documents\visual studio 2013\Projects\WaterMeter\WaterMeter\obj\Release\WaterMeter.csprojResolveAssemblyReference.cache
