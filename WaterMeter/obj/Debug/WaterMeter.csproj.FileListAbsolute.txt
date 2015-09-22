@@ -7,3 +7,6 @@ c:\users\family\documents\visual studio 2013\Projects\WaterMeter\WaterMeter\obj\
 c:\users\family\documents\visual studio 2013\Projects\WaterMeter\WaterMeter\obj\Debug\WaterMeter.exe
 c:\users\family\documents\visual studio 2013\Projects\WaterMeter\WaterMeter\obj\Debug\WaterMeter.pdb
 c:\users\family\documents\visual studio 2013\Projects\WaterMeter\WaterMeter\obj\Debug\WaterMeter.frmMain.resources
+C:\Users\Family\Source\Repos\Maynilad\WaterMeter\bin\Debug\WaterMeter.exe.config
+C:\Users\Family\Source\Repos\Maynilad\WaterMeter\obj\Debug\WaterMeter.exe
+C:\Users\Family\Source\Repos\Maynilad\WaterMeter\obj\Debug\WaterMeter.pdb
